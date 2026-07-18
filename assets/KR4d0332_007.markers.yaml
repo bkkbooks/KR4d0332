@@ -22,6 +22,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR4d0332_WYG_007-1a03}
   - {type: indent, offset: 9, content: 　　, id: KR4d0332_krp_007-bkkind5}
   - {type: punctuation, offset: 10, content: (, id: KR4d0332_krp_007-bkkpn1}
+  - {type: voice, offset: 10, length: 21, name: note, id: n1}
   - {type: substitution, offset: 12, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 21, content: /, id: KR4d0332_krp_007-bkkpn2}
   - {type: punctuation, offset: 31, content: ), id: KR4d0332_krp_007-bkkpn3}
@@ -2685,6 +2686,7 @@ markers:
   - {type: substitution, offset: 10150, original: 廵, replacement: 巡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16441}}
   - {type: substitution, offset: 10152, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 10153, content: (, id: KR4d0332_krp_007-bkkpn4}
+  - {type: voice, offset: 10153, length: 36, name: note, id: n2}
   - {type: substitution, offset: 10165, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: punctuation, offset: 10166, content: /, id: KR4d0332_krp_007-bkkpn5}
   - {type: punctuation, offset: 10179, content: ), id: KR4d0332_krp_007-bkkpn6}
@@ -2766,4 +2768,4 @@ markers:
 
       ', id: KR4d0332_krp_007-bkkkrnewl593}
   back: []
-hash: sha256:7c621c202c0d5e5522195d21544693501c224d59a826b3d3556799a4965db2e6
+hash: sha256:17edc72bbb88f4e00fe78a4836d85baa7a1fe75295b5bbf8b9a6545fbe9825ad
